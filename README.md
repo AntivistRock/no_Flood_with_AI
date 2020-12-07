@@ -1,4 +1,4 @@
-# Решение трека no_flood_with_ai_aij2020 AIJ Junior
+# Решение трека no_flood_with_ai_aij2020 AIJ Junior UPD: данное решение позволило занять 1-е место в Junior номинации трека
 
 ## Файлы по критериям решения
 
@@ -8,7 +8,7 @@
 чтобы исключить вохможность оверфита.
 
 > В solution_amur.ipynb используется вывод на Google Карты. Если при запуске возникают проблемы, то вам необходимо зарегестрироваться на [Google Cloud Platform](https://console.cloud.google.com/home/dashboard?project=amurgeopostsmapping&hl=ru),
-> создать проект, создать apikey и указать его как параметр *apikey* в ноутбуке
+> создать проект, создать apikey и указать его как параметр *apikey* в ноутбуке **UPD: сдалав репозиторий публичным, я убрал свой api key, теперь для корректного запуска ноутбука вам нужно указать свой google cloud api key**
 
 ## Пояснения к запуску forecast.py
 
